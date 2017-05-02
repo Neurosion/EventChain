@@ -1,0 +1,9 @@
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Monitoring\bin\Debug\EventChain.Monitoring.dll
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Monitoring\bin\Debug\EventChain.Monitoring.pdb
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Monitoring\bin\Debug\EventChain.Core.dll
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Monitoring\bin\Debug\Newtonsoft.Json.dll
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Monitoring\bin\Debug\EventChain.Core.pdb
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Monitoring\bin\Debug\Newtonsoft.Json.xml
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Monitoring\obj\Debug\EventChain.Monitoring.csprojResolveAssemblyReference.cache
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Monitoring\obj\Debug\EventChain.Monitoring.dll
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Monitoring\obj\Debug\EventChain.Monitoring.pdb

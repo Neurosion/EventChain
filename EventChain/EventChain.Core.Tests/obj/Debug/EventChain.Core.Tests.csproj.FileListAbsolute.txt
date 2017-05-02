@@ -1,0 +1,10 @@
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Core.Tests\bin\Debug\EventChain.Core.Tests.dll
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Core.Tests\bin\Debug\EventChain.Core.Tests.pdb
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Core.Tests\bin\Debug\NSubstitute.dll
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Core.Tests\bin\Debug\nunit.framework.dll
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Core.Tests\bin\Debug\Should.dll
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Core.Tests\bin\Debug\NSubstitute.xml
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Core.Tests\bin\Debug\nunit.framework.xml
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Core.Tests\obj\Debug\EventChain.Core.Tests.csprojResolveAssemblyReference.cache
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Core.Tests\obj\Debug\EventChain.Core.Tests.dll
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Core.Tests\obj\Debug\EventChain.Core.Tests.pdb

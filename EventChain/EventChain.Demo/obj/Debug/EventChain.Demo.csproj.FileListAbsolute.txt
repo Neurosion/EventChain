@@ -1,0 +1,10 @@
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Demo\bin\Debug\EventChain.Demo.exe.config
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Demo\bin\Debug\EventChain.Demo.exe
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Demo\bin\Debug\EventChain.Demo.pdb
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Demo\bin\Debug\EventChain.Core.dll
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Demo\bin\Debug\EventChain.Core.pdb
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Demo\obj\Debug\EventChain.Demo.csprojResolveAssemblyReference.cache
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Demo\obj\Debug\EventChain.Demo.exe
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Demo\obj\Debug\EventChain.Demo.pdb
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Demo\bin\Debug\Newtonsoft.Json.dll
+D:\Users\James\GitHub\eventchain\EventChain\EventChain.Demo\bin\Debug\Newtonsoft.Json.xml
